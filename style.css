@@ -1,0 +1,18 @@
+nav {
+    text-align: -webkit-center;
+    display: block;
+}
+
+table {
+    display: table;
+    margin-left: 70px;
+    border-spacing: 2px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+input {
+    box-sizing: border-box;
+}
